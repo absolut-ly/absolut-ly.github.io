@@ -6,8 +6,8 @@
  <HR>
  <BODY>
 
-  <CENTER> Here's some of my stuff </CENTER>
-  <CENTER> theCenterSurry website </CENTER>
+  <CENTER> Here's some of my stuff </CENTER><br>
+  <CENTER> <a href="TheCenterSurry/public_html/home.xhtml">theCenterSurry website</a> </CENTER>
 
   <HR>
 
