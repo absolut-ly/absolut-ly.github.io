@@ -1,0 +1,18 @@
+DirectoryIndex home.xhtml
+
+
+ErrorDocument 400 /error.xhtml
+ErrorDocument 404 /error.xhtml
+
+
+Redirect /about http://www.thecentersurry.com/about.xhtml
+Redirect /contact http://www.thecentersurry.com/contact.xhtml
+Redirect /events http://www.thecentersurry.com/events.xhtml
+Redirect /links http://www.thecentersurry.com/links.xhtml
+Redirect /menu http://www.thecentersurry.com/menu.xhtml
+Redirect /mobile http://mobi.thecentersurry.com
+Redirect /renew http://www.thecentersurry.com/renew.xhtml
+Redirect /updates http://www.thecentersurry.com/updates.xhtml
+Redirect /blendedmocha http://www.thecentersurry.com/blendedmocha.xhtml
+
+

@@ -1,0 +1,22 @@
+							<tr>
+								<td style="vertical-align:top" align="left"> 
+									<h2>Our Values</h2>
+									<br />These are the qualities that we aspire to portray as we serve others. 
+									<br />They are the things that are important to us.
+
+									<p><b>Sharing Life</b></p>
+									<p>We live life together. We work together. We learn together. We play together. We serve together. We share our hard times and our triumphs knowing that life is better together than alone.</p>
+
+									<p><b>Service</b></p>
+									<p>We are always ready to give to others, to help others, to point them in the right direction</p>
+
+									<p><b>Simplicity</b></p>
+									<p>We choose to live life simply. We value people over things, comfort, and entertainment. We commit our time, our finances, and our energy to being people who love people and never people who love things. </p>
+
+									<p><b>Sincerity</b></p>
+									<p>We live with honesty and transparency. We will always be real with people. We will be open about our needs and challenges in life and not cover ourselves with insincerity, tradition, or habit. </p>
+
+									<p><b>Selflessness</b></p>
+									<p>We will give ourselves other. We will always treat others the way we want to be treated. We will put others first</p>
+								</td>
+							</tr>
