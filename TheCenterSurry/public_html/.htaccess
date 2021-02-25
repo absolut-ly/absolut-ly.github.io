@@ -1,17 +1,17 @@
 DirectoryIndex home.xhtml
 
 
-ErrorDocument 400 /error.xhtml
-ErrorDocument 404 /error.xhtml
+ErrorDocument 400 /thecentersurry/public_html/error.xhtml
+ErrorDocument 404 /thecentersurry/public_html/error.xhtml
 
 
-Redirect /about http://www.thecentersurry.com/about.xhtml
-Redirect /contact http://www.thecentersurry.com/contact.xhtml
-Redirect /events http://www.thecentersurry.com/events.xhtml
-Redirect /links http://www.thecentersurry.com/links.xhtml
-Redirect /menu http://www.thecentersurry.com/menu.xhtml
-Redirect /mobile http://mobi.thecentersurry.com
-Redirect /updates http://www.thecentersurry.com/updates.xhtml
-Redirect /portal http://www.thecentersurry.com/portal.xhtml
+Redirect /about /thecentersurry/public_html/about.xhtml
+Redirect /contact /thecentersurry/public_html/contact.xhtml
+Redirect /events /thecentersurry/public_html/events.xhtml
+Redirect /links /thecentersurry/public_html/links.xhtml
+Redirect /menu /thecentersurry/public_html/menu.xhtml
+Redirect /mobile /thecentersurry/mobile/home.xhtml
+Redirect /updates /thecentersurry/public_html/updates.xhtml
+Redirect /portal /thecentersurry/public_html/portal.xhtml
 
 
